@@ -1,0 +1,44 @@
+[
+  {
+    "teams": ["Oklahoma City Thunder", "Houston Rockets"],
+    "spread": ["-1.5\n-112", "+1.5\n-112"],
+    "money": ["-134", "+110"],
+    "total": ["O\n212.5\n-113", "U\n212.5\n-113"]
+  },
+  {
+    "teams": ["Orlando Magic", "Milwaukee Bucks"],
+    "spread": ["+13\n-110", "-13\n-110"],
+    "money": ["+730", "-1150"],
+    "total": ["O\n227\n-110", "U\n227\n-110"]
+  },
+  {
+    "teams": ["Portland Trail Blazers", "Los Angeles Lakers"],
+    "spread": ["+7\n-115", "-7\n-105"],
+    "money": ["+240", "-295"],
+    "total": ["O\n230\n-110", "U\n230\n-110"]
+  },
+  {
+    "teams": ["Toronto Raptors", "Brooklyn Nets"],
+    "spread": ["-10.5\n-110", "+10.5\n-110"],
+    "money": ["-590", "+430"],
+    "total": ["O\n221\n-110", "U\n221\n-110"]
+  },
+  {
+    "teams": ["Denver Nuggets", "Utah Jazz"],
+    "spread": ["-2\n-110", "+2\n-110"],
+    "money": ["-130", "+110"],
+    "total": ["O\n219.5\n-110", "U\n219.5\n-110"]
+  },
+  {
+    "teams": ["Boston Celtics", "Philadelphia 76ers"],
+    "spread": ["-5.5\n-108", "+5.5\n-112"],
+    "money": ["-230", "+190"],
+    "total": ["O\n216\n-110", "U\n216\n-110"]
+  },
+  {
+    "teams": ["Los Angeles Clippers", "Dallas Mavericks"],
+    "spread": ["-4.5\n-114", "+4.5\n-106"],
+    "money": ["-205", "+172"],
+    "total": ["O\n232.5\n-110", "U\n232.5\n-110"]
+  }
+]

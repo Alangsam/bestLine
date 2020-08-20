@@ -1,0 +1,158 @@
+[
+  {
+    "teams": ["Dallas Mavericks", "Los Angeles Clippers"],
+    "spread": ["+1.5 (-130)", "-1.5 (EVEN)"],
+    "money": ["-105", "-125"],
+    "total": ["O232.5 (-120)", "U232.5 (-110)"]
+  },
+  {
+    "teams": ["Dallas Wings", "Minnesota Lynx"],
+    "spread": ["-105", "-125"],
+    "money": ["O232.5 (-120)", "U232.5 (-110)"],
+    "total": ["+5.5 (-105)", "-5.5 (-140)"]
+  },
+  {
+    "teams": ["Phoenix Mercury", "Los Angeles Sparks"],
+    "spread": ["O232.5 (-120)", "U232.5 (-110)"],
+    "money": ["+5.5 (-105)", "-5.5 (-140)"],
+    "total": ["+575", "-1600"]
+  },
+  {
+    "teams": ["Atlanta Hawks (Jema11)", "Toronto Raptors (Tranquil)"],
+    "spread": ["+5.5 (-105)", "-5.5 (-140)"],
+    "money": ["+575", "-1600"],
+    "total": ["O172.5 (-120)", "U172.5 (-120)"]
+  },
+  {
+    "teams": ["Boston Celtics (Zo0M)", "Philadelphia 76ers (Bad_Trip)"],
+    "spread": ["+575", "-1600"],
+    "money": ["O172.5 (-120)", "U172.5 (-120)"],
+    "total": ["+14.5 (-125)", "-14.5 (-115)"]
+  },
+  {
+    "teams": ["Los Angeles Clippers", "Dallas Mavericks"],
+    "spread": ["O172.5 (-120)", "U172.5 (-120)"],
+    "money": ["+14.5 (-125)", "-14.5 (-115)"],
+    "total": ["+850", "-5000"]
+  },
+  {
+    "teams": ["Danubio", "Tabaré"],
+    "spread": ["+14.5 (-125)", "-14.5 (-115)"],
+    "money": ["+850", "-5000"],
+    "total": ["O149.5 (-115)", "U149.5 (-125)"]
+  },
+  {
+    "teams": ["Miami Heat", "Indiana Pacers"],
+    "spread": ["+850", "-5000"],
+    "money": ["O149.5 (-115)", "U149.5 (-125)"],
+    "total": ["+1.5 (-130)", "-1.5 (-110)"]
+  },
+  {
+    "teams": ["Oklahoma City Thunder", "Houston Rockets"],
+    "spread": ["O149.5 (-115)", "U149.5 (-125)"],
+    "money": ["+1.5 (-130)", "-1.5 (-110)"],
+    "total": ["O122.5 (-115)", "U122.5 (-125)"]
+  },
+  {
+    "teams": ["Orlando Magic", "Milwaukee Bucks"],
+    "spread": ["+1.5 (-130)", "-1.5 (-110)"],
+    "money": ["O122.5 (-115)", "U122.5 (-125)"],
+    "total": ["-8.5 (-160)", "+8.5 (+110)"]
+  },
+  {
+    "teams": ["Portland Trail Blazers", "Los Angeles Lakers"],
+    "spread": ["O122.5 (-115)", "U122.5 (-125)"],
+    "money": ["-8.5 (-160)", "+8.5 (+110)"],
+    "total": ["O102.5 (-110)", "U102.5 (-130)"]
+  },
+  {
+    "teams": ["Toronto Raptors", "Brooklyn Nets"],
+    "spread": ["-8.5 (-160)", "+8.5 (+110)"],
+    "money": ["O102.5 (-110)", "U102.5 (-130)"],
+    "total": ["-1.5 (-110)", "+1.5 (-130)"]
+  },
+  {
+    "teams": ["Denver Nuggets", "Utah Jazz"],
+    "spread": ["O102.5 (-110)", "U102.5 (-130)"],
+    "money": ["-1.5 (-110)", "+1.5 (-130)"],
+    "total": ["-180", "+125"]
+  },
+  {
+    "teams": ["Boston Celtics", "Philadelphia 76ers"],
+    "spread": ["-1.5 (-110)", "+1.5 (-130)"],
+    "money": ["-180", "+125"],
+    "total": ["O156.5 (-125)", "U156.5 (-115)"]
+  },
+  {
+    "teams": ["Indiana Pacers", "Miami Heat"],
+    "spread": ["-180", "+125"],
+    "money": ["O156.5 (-125)", "U156.5 (-115)"],
+    "total": ["-4.0 (-110)", "+4.0 (-110)"]
+  },
+  {
+    "teams": ["Houston Rockets", "Oklahoma City Thunder"],
+    "spread": ["O156.5 (-125)", "U156.5 (-115)"],
+    "money": ["-4.0 (-110)", "+4.0 (-110)"],
+    "total": ["-175", "+155"]
+  },
+  {
+    "teams": ["Orlando Magic", "Milwaukee Bucks"],
+    "spread": ["-4.0 (-110)", "+4.0 (-110)"],
+    "money": ["-175", "+155"],
+    "total": ["O215.0 (-110)", "U215.0 (-110)"]
+  },
+  {
+    "teams": ["Portland Trail Blazers", "Los Angeles Lakers"],
+    "spread": ["-175", "+155"],
+    "money": ["O215.0 (-110)", "U215.0 (-110)"],
+    "total": ["+2.5 (-105)", "-2.5 (-115)"]
+  },
+  {
+    "teams": ["Los Angeles Clippers", "Dallas Mavericks"],
+    "spread": ["O215.0 (-110)", "U215.0 (-110)"],
+    "money": ["+2.5 (-105)", "-2.5 (-115)"],
+    "total": ["+125", "-145"]
+  },
+  {
+    "teams": ["Phoenix Suns", "Indiana Pacers (IND)"],
+    "spread": ["+2.5 (-105)", "-2.5 (-115)"],
+    "money": ["+125", "-145"],
+    "total": ["O227.5 (-105)", "U227.5 (-115)"]
+  },
+  {
+    "teams": ["Los Angeles Lakers", "Portland Trail Blazers"],
+    "spread": ["+125", "-145"],
+    "money": ["O227.5 (-105)", "U227.5 (-115)"],
+    "total": ["+12.5 (-110)", "-12.5 (-110)"]
+  },
+  {
+    "teams": ["Hitech Bangkok City", "T-REX"],
+    "spread": ["O227.5 (-105)", "U227.5 (-115)"],
+    "money": ["+12.5 (-110)", "-12.5 (-110)"],
+    "total": ["+650", "-1100"]
+  },
+  {
+    "teams": ["Thai General Equipment", "Ban Bueng Devil Rays"],
+    "spread": ["+12.5 (-110)", "-12.5 (-110)"],
+    "money": ["+650", "-1100"],
+    "total": ["O227.5 (-110)", "U227.5 (-110)"]
+  },
+  {
+    "teams": ["SWU Basketball Club", "Mekong United"],
+    "spread": ["+650", "-1100"],
+    "money": ["O227.5 (-110)", "U227.5 (-110)"],
+    "total": ["+6.5 (-110)", "-6.5 (-110)"]
+  },
+  {
+    "teams": ["NH Ostrava", "BK Opava"],
+    "spread": ["O227.5 (-110)", "U227.5 (-110)"],
+    "money": ["+6.5 (-110)", "-6.5 (-110)"],
+    "total": ["+225", "-275"]
+  },
+  {
+    "teams": ["Olimpia Milano", "Dinamo Sassari"],
+    "spread": ["+6.5 (-110)", "-6.5 (-110)"],
+    "money": ["+225", "-275"],
+    "total": ["O229.0 (-110)", "U229.0 (-110)"]
+  }
+]

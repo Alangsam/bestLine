@@ -8,10 +8,10 @@ const distC = require("./distC.json");
 const distD = require("./distD.json");
 
 async function findBestLine(teamOrCity) {
-  //   await gtBets;
-  //   await bovada;
-  //   await bookMaker;
-  //   await fanDuel;
+  await gtBets;
+  await bovada;
+  await bookMaker;
+  await fanDuel;
 
   const teamRegex = new RegExp(teamOrCity, "i");
   const matchingGameObjectsDist = dist.filter((obj) =>

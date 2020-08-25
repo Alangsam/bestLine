@@ -1,38 +1,38 @@
 [
   {
-    "teams": ["Milwaukee Bucks", "Orlando Magic"],
-    "spread": ["-12.5 (-105)", "+12.5 (-125)"],
-    "money": ["-1400", "+650"],
-    "total": ["O218.5 (-120)", "U218.5 (-110)"]
-  },
-  {
-    "teams": ["Houston Rockets", "Oklahoma City Thunder"],
-    "spread": ["-3.0 (-105)", "+3.0 (-115)"],
-    "money": ["-155", "+135"],
-    "total": ["O224.0 (-110)", "U224.0 (-110)"]
-  },
-  {
-    "teams": ["Indiana Pacers", "Miami Heat"],
-    "spread": ["+6.5 (-110)", "-6.5 (-110)"],
-    "money": ["+225", "-275"],
-    "total": ["O217.5 (-105)", "U217.5 (-115)"]
-  },
-  {
-    "teams": ["Los Angeles Lakers", "Portland Trail Blazers"],
-    "spread": ["-7.0 (-110)", "+7.0 (-110)"],
-    "money": ["-330", "+265"],
-    "total": ["O226.5 (-110)", "U226.5 (-110)"]
-  },
-  {
     "teams": ["Utah Jazz", "Denver Nuggets"],
-    "spread": ["-3.0 (-110)", "+3.0 (-110)"],
-    "money": ["-150", "+130"],
-    "total": ["O220.5 (-110)", "U220.5 (-110)"]
+    "spread": ["-3.0 (-105)", "+3.0 (-115)"],
+    "money": ["-140", "+120"],
+    "total": ["O220.0 (-105)", "U220.0 (-115)"]
   },
   {
     "teams": ["Dallas Mavericks", "Los Angeles Clippers"],
-    "spread": ["+6.5 (-110)", "-6.5 (-110)"],
-    "money": ["+220", "-270"],
-    "total": ["O236.0 (-110)", "U236.0 (-110)"]
+    "spread": ["+8.0 (-110)", "-8.0 (-110)"],
+    "money": ["+280", "-360"],
+    "total": ["O237.0 (-110)", "U237.0 (-110)"]
+  },
+  {
+    "teams": ["Orlando Magic", "Milwaukee Bucks"],
+    "spread": ["+14.0 (-110)", "-14.0 (-110)"],
+    "money": ["+725", "-1300"],
+    "total": ["O226.5 (-110)", "U226.5 (-110)"]
+  },
+  {
+    "teams": ["Oklahoma City Thunder", "Houston Rockets"],
+    "spread": ["+3.5 (-110)", "-3.5 (-110)"],
+    "money": ["+145", "-165"],
+    "total": ["O225.5 (-110)", "U225.5 (-110)"]
+  },
+  {
+    "teams": ["Portland Trail Blazers", "Los Angeles Lakers"],
+    "spread": ["+12.5 (-110)", "-12.5 (-110)"],
+    "money": ["+550", "-900"],
+    "total": ["O223.0 (-110)", "U223.0 (-110)"]
+  },
+  {
+    "teams": ["Boston Celtics", "Toronto Raptors"],
+    "spread": ["+2.0 (-110)", "-2.0 (-110)"],
+    "money": ["+105", "-125"],
+    "total": ["O216.5 (-110)", "U216.5 (-110)"]
   }
 ]

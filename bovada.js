@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const gtBets = async () => {
+const bovada = async () => {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto("https://www.bovada.lv/sports/basketball/nba");
@@ -43,10 +43,12 @@ const gtBets = async () => {
   //     num += 1;
   //   }
   console.log(gameArr, spreadArr);
-  //await browser.close();
+  await browser.close();
   //console.log();
 };
 
-gtBets();
+//bovada();
 
 //const hmmmm = String(fs.readFileSync("dist.json"));
+
+module.exports = bovada();

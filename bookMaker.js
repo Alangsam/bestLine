@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const gtBets = async () => {
+const bookMaker = async () => {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto("https://www.bookmaker.eu/live-lines/basketball/nba");
@@ -53,6 +53,8 @@ const gtBets = async () => {
   //console.log();
 };
 
-gtBets();
+//bookMaker();
 
 //const hmmmm = String(fs.readFileSync("dist.json"));
+
+module.exports = bookMaker();

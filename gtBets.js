@@ -55,3 +55,5 @@ const gtBets = async () => {
 gtBets();
 
 const hmmmm = String(fs.readFileSync("dist.json"));
+
+module.exports = gtBets();

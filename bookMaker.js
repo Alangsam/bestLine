@@ -48,7 +48,7 @@ const bookMaker = async () => {
   //await
   //     num += 1;
   //   }
-  console.log(newGamesArr, spreadArr);
+  //console.log(newGamesArr, spreadArr);
   await browser.close();
   //console.log();
 };

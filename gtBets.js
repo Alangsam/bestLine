@@ -47,7 +47,7 @@ const gtBets = async () => {
   //await
   //     num += 1;
   //   }
-  console.log("yes");
+  //console.log("gtBets");
   await browser.close();
   //console.log();
 };

@@ -42,7 +42,7 @@ const bovada = async () => {
   //await
   //     num += 1;
   //   }
-  console.log(gameArr, spreadArr);
+  //console.log(gameArr, spreadArr);
   await browser.close();
   //console.log();
 };

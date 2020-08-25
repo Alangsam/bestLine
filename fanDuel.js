@@ -34,7 +34,7 @@ const fanDuel = async () => {
 
   fs.writeFileSync("distD.json", JSON.stringify(arr));
 
-  console.log(gameArr, spreadArr);
+  //console.log(gameArr, spreadArr);
   await browser.close();
   //console.log();
 };

@@ -20,7 +20,7 @@ async function findBestLine() {
     input: process.stdin,
     output: process.stdout,
   });
-
+  process.stdout.write("Enter city of team, don't forget spaces :) \n");
   rl.on("line", async (input) => {
     const P = ["LOADING\\", "LOADING|", "LOADING/", "LOADING-"];
     var x = 0;

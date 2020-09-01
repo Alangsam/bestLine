@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const bookMaker = async () => {
+async function bookMaker() {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto("https://www.bookmaker.eu/live-lines/basketball/nba");
@@ -51,10 +51,10 @@ const bookMaker = async () => {
   //console.log(newGamesArr, spreadArr);
   await browser.close();
   //console.log();
-};
+}
 
-bookMaker();
+//bookMaker();
 
 //const hmmmm = String(fs.readFileSync("dist.json"));
 
-module.exports = bookMaker();
+module.exports = { bookMaker };

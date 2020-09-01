@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const gtBets = async () => {
+async function gtBets() {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(
@@ -50,10 +50,10 @@ const gtBets = async () => {
   //console.log("gtBets");
   await browser.close();
   //console.log();
-};
+}
 
-gtBets();
+//gtBets();
 
-const hmmmm = String(fs.readFileSync("dist.json"));
+//const hmmmm = String(fs.readFileSync("dist.json"));
 
-module.exports = gtBets();
+module.exports = { gtBets };

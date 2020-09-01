@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const fanDuel = async () => {
+async function fanDuel() {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(
@@ -37,10 +37,10 @@ const fanDuel = async () => {
   //console.log(gameArr, spreadArr);
   await browser.close();
   //console.log();
-};
+}
 
 //fanDuel();
 
 //const hmmmm = String(fs.readFileSync("dist.json"));
 
-module.exports = fanDuel();
+module.exports = { fanDuel };

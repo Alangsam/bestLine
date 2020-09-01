@@ -22,6 +22,12 @@ async function findBestLine() {
   });
 
   rl.on("line", async (input) => {
+    const P = ["LOADING\\", "LOADING|", "LOADING/", "LOADING-"];
+    var x = 0;
+    const interval = setInterval(function () {
+      process.stdout.write("\r" + P[x++]);
+      x &= 3;
+    }, 250);
     await gatherAll().then((res) => console.log(res));
 
     const teamRegex = new RegExp(input, "i");
@@ -47,7 +53,7 @@ async function findBestLine() {
       matchingGameObjectsDistC,
       matchingGameObjectsDistD
     );
-
+    clearInterval(interval);
     rl.close();
   });
 }

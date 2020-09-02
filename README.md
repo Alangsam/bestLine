@@ -1,4 +1,6 @@
-# based on city, search through select online bookies for odds based on user query
+# Project to explore Puppeteer
+
+# Based on city, search through select online bookies for odds based on user query
 
 <br></br>
 

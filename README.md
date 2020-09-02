@@ -1,4 +1,5 @@
-# based on city, search through online bookies for odds based on user query
+# based on city, search through select 
+# online bookies for odds based on user query
 
 ## Steps to run
 
